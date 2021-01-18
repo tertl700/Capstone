@@ -92,4 +92,11 @@ iOSInjectionProject/
 /*.gcno
 **/xcshareddata/WorkspaceSettings.xcsettings
 
+#node_modules
+node_modules
+
+__pycache__/
+.vscode/
+__pycache__/
 # End of https://www.gitignore.io/api/swift,xcode
+
